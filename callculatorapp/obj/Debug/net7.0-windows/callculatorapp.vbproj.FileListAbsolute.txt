@@ -1,0 +1,17 @@
+C:\Users\Nando\source\repos\callculatorapp\bin\Debug\net7.0-windows\callculatorapp.exe
+C:\Users\Nando\source\repos\callculatorapp\bin\Debug\net7.0-windows\callculatorapp.deps.json
+C:\Users\Nando\source\repos\callculatorapp\bin\Debug\net7.0-windows\callculatorapp.runtimeconfig.json
+C:\Users\Nando\source\repos\callculatorapp\bin\Debug\net7.0-windows\callculatorapp.dll
+C:\Users\Nando\source\repos\callculatorapp\bin\Debug\net7.0-windows\callculatorapp.pdb
+C:\Users\Nando\source\repos\callculatorapp\obj\Debug\net7.0-windows\callculatorapp.vbproj.AssemblyReference.cache
+C:\Users\Nando\source\repos\callculatorapp\obj\Debug\net7.0-windows\callculatorapp.Form1.resources
+C:\Users\Nando\source\repos\callculatorapp\obj\Debug\net7.0-windows\callculatorapp.vbproj.GenerateResource.cache
+C:\Users\Nando\source\repos\callculatorapp\obj\Debug\net7.0-windows\callculatorapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nando\source\repos\callculatorapp\obj\Debug\net7.0-windows\callculatorapp.AssemblyInfoInputs.cache
+C:\Users\Nando\source\repos\callculatorapp\obj\Debug\net7.0-windows\callculatorapp.AssemblyInfo.vb
+C:\Users\Nando\source\repos\callculatorapp\obj\Debug\net7.0-windows\callculatorapp.vbproj.CoreCompileInputs.cache
+C:\Users\Nando\source\repos\callculatorapp\obj\Debug\net7.0-windows\callculatorapp.dll
+C:\Users\Nando\source\repos\callculatorapp\obj\Debug\net7.0-windows\refint\callculatorapp.dll
+C:\Users\Nando\source\repos\callculatorapp\obj\Debug\net7.0-windows\callculatorapp.pdb
+C:\Users\Nando\source\repos\callculatorapp\obj\Debug\net7.0-windows\callculatorapp.genruntimeconfig.cache
+C:\Users\Nando\source\repos\callculatorapp\obj\Debug\net7.0-windows\ref\callculatorapp.dll
